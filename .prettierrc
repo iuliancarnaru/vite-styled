@@ -1,0 +1,12 @@
+{
+  "singleQuote": true,
+  "importOrder": [
+    "^@components/(.*)$",
+    "^@styles/(.*)$",
+    "^@assets/(.*)$",
+    "^@content/(.*)$",
+    "^[./]"
+  ],
+  "importOrderSeparation": true,
+  "importOrderSortSpecifiers": true
+}
